@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kylanlewis
-- 👀 I’m interested in Embedded Systems, FPGAs, & hardware hacking.
-- 🌱 I’m currently learning CAN BUS Reverse Engineering 
 - 📫 How to reach me: kylanlewis.page
 
 <!---
