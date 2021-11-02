@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylanlewis
-- 📫 How to reach me: kylanlewis.page
+- 📫 How to reach me: kylanlewis@protonmail.com
 
 <!---
 kylanlewis/kylanlewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
